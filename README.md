@@ -13,3 +13,8 @@
 可使用requirements.txt快速安装相关包：<br>
 执行命令：<br>
 pip install -r requirements.txt
+
+提供一些深度学习框架的安装教程：
+
+    [PyTorch: win10](https://blog.csdn.net/xiangxianghehe/article/details/73500031)
+    [PyTorch: Ubuntu](https://blog.csdn.net/yucicheung/article/details/79094657)
